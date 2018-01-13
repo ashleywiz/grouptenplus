@@ -1,0 +1,218 @@
+
+body {
+	background-color: #FFFFFF;
+}
+.style1 {font-family: Calibri}
+body,td,th {
+	font-family: Calibri;
+}
+a:link {
+	
+	text-decoration: none;
+	font-family: Calibri;
+}
+a:visited {
+	text-decoration: none;
+	
+	font-family: Calibri;
+}
+a:hover {
+	text-decoration: none;
+	
+	font-family: Calibri;
+}
+a:active {
+	text-decoration: none;
+	
+}
+
+div.scrollcollection {
+height: 290px;
+overflow: auto;
+width: 810px;
+background-color: #fff;
+}
+
+div.scrollindex {
+height: 230px;
+overflow: auto;
+width: 810px;
+background-color: #fff;
+}
+
+div.scrollstandards {
+height: 334px;
+overflow: auto;
+width: 810px;
+background-color: #fff;
+}
+div.scrollmedia {
+height: 330px;
+overflow: auto;
+width: 810px;
+background-color: #fff;
+}
+
+div.scrollevents {
+height: 540px;
+overflow: auto;
+width: 450px;
+background-color: #fff;
+}
+
+div.scrollrecycled {
+height: 304px;
+overflow: auto;
+width: 810px;
+background-color: #fff;
+}
+
+div.scrollprivacy {
+height: 525px;
+overflow: auto;
+width: 810px;
+background-color: #fff;
+}
+
+div.scrollcorp {
+height: 320px;
+overflow: auto;
+width: 810px;
+background-color: #fff;
+}
+
+input
+{
+	border: 2px solid green;
+}
+
+textarea
+{
+	border: 2px solid green;
+}
+
+p
+{
+	margin: 5px;
+}
+
+.clear
+{
+	clear: both;
+}
+
+.rhsmenu
+{
+	width: 115px;
+	margin-right: 20px;
+	padding: 0;
+}
+
+.rhsmenu td
+{
+  font-family: Calibri;
+  font-size: 14px;
+  font-weight: bold;
+  color:#CBA759;
+  text-align: right;
+  height: 58px;
+}
+
+.rhslinks
+{
+	font-family: Calibri;
+  font-size: 14px;
+  font-weight: bold;
+  color:#C38B29;
+}
+
+
+.links
+{
+  
+ font-family: Calibri;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  color:#C38B29;  
+}
+
+
+.innerrhsmenu
+{
+	width: 164px;
+	margin:0;
+	padding: 0;
+}
+
+.innerrhsmenu td
+{
+	font-family: Calibri;
+	font-size: 14px;
+	font-weight: bold;
+	color: black;
+	text-align: right;
+	
+	padding-right: 40px;
+}
+
+.innerrhslinks
+{
+	font-family: Calibri;
+	font-size: 14px;
+	font-weight: bold;
+	color: black;
+
+}
+
+.innerrhslinks a,a:hover,a:visited
+{
+	
+	color: black;
+}
+
+.toplinks
+{
+  
+ font-family: Calibri;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  color:black;  
+}
+
+#homepageflash
+{
+   position: absolute;
+	left: 570px;
+	top:30px;
+	width:241px;
+	height:30px;
+	/*border:1px solid red;*/
+}
+
+#leftspacing
+{
+	padding-left: 30px;
+}
+
+
+.style2 {font-size: medium}
+.style10 {color: #000000; font-weight: bold; font-size: large; }
+.style11 {	font-size: large;
+	font-weight: bold;
+	color: #C0A062;
+}
+.style5 {	font-size: medium;
+	color: #000000;
+}
+
+.greytext {
+	color: #999999;
+	font-weight: bold;
+	font-style: italic;
+	font-size:25px;
+	font-family: Calibri;
+	
+	
+}
